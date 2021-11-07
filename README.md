@@ -9,3 +9,5 @@ Next, click on the file icon in the upper left corner of the text editor. You’
 Try out the Dogs and Cats links now!
 
 Let’s create a 404 status response by making a request for a non-existent resource. Alex hasn’t built a webpage to list her turtles! Click on the link for Turtles to see the browser display the 404 status code.
+
+Take a loot to the live example here: https://bucheli-web-development-front-end-course-first-example.netlify.app/
